@@ -1,7 +1,7 @@
 {
-  "name": "angular.io-example",
+  "name": "homes-app",
   "version": "0.0.0",
-  "description": "Example project from an angular.io guide.",
+  "description": "Home search application beuilt through Angular tutorial.",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
